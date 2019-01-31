@@ -3,7 +3,7 @@ A simple node server using express, express-handlebars and jest for testing
 
 To use: 
 
-*Fork this repo
+* Fork this repo
 * Rename your repo to be the app you're building
 
 ```sh
